@@ -63,6 +63,5 @@ Which team statistics most strongly correlate with wins in Major League Baseball
   - Offense: Shohei Ohtani, J.D. Martinez  
   - Defense: Kyle Gibson, Lucas Giolito  
 
----
 
  
