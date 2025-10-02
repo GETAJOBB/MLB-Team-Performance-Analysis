@@ -1,4 +1,12 @@
 # ⚾ MLB Team Performance Analysis
+### 📖 Project Description
+This project explores the relationship between team performance statistics and wins in Major League Baseball. Using data from the 2021 and 2022 regular seasons, the study applied multiple statistical and machine learning methods including multiple linear regression with backward elimination, decision tree modeling, cluster analysis, and analysis of variance to determine which metrics most strongly influence team success.
+
+The results show that Slugging Percentage, Runs Scored, and limiting Runs Against are the most decisive factors for winning games. By combining regression insights, decision tree thresholds, and clustering patterns, the analysis produced actionable recommendations for Major League Baseball teams to improve strategies and optimize player acquisitions.
+
+This project demonstrates how data driven decision making can support sports management, player evaluation, and predictive analytics in professional baseball.
+
+---
 
 ### 📌 Big Question  
 Which team statistics most strongly correlate with wins in Major League Baseball (MLB)?
